@@ -2,6 +2,8 @@
 
 Material for a 3-hour workshop **Invitation to Intermediate Julia** at JuliaCon 2016.
 
+This follows on from my 4-hour workshop [**Invitation to Julia**](https://github.com/dpsanders/invitation_to_julia) at JuliaCon 2015.
+
 
 ### Financial support
 
