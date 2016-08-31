@@ -1,6 +1,7 @@
 # Invitation to Intermediate Julia
 
-Material for a 3-hour workshop **Invitation to Intermediate Julia** at JuliaCon 2016.
+Material for a 3-hour workshop **Invitation to Intermediate Julia**, presented at JuliaCon 2016. 
+The video is available [here](https://www.youtube.com/watch?v=rAxzR7lMGDM).
 
 This follows on from my 4-hour workshop [**Invitation to Julia**](https://github.com/dpsanders/invitation_to_julia) at JuliaCon 2015.
 
